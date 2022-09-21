@@ -9,7 +9,7 @@ const config = {
             autoIndex: false,
             retryWrites: false
         },
-        url: `mongodb+srv://RJSanti:7OcGcHrglTqetvaV@securestorageinc.gqlyqk5.mongodb.net/?retryWrites=true&w=majority`
+        url: `mongodb+srv://RJSanti:7OcGcHrglTqetvaV@securestorageinc.gqlyqk5.mongodb.net/blog`
     },
     server: {
         host: 'localhost',
